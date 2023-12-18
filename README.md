@@ -10,7 +10,7 @@ Clean files: `make clean` <br />
 
 
 To create hashtable -- data-byname.txt, data-bynumber.txt, smalldata-mixed.txt <br />
-To query hashtable -- key.txt <br />
+To query through hashtable -- key.txt <br />
 To delete data from hashtable -- delete.txt <br />
 
 Example commands under -- commands.txt
