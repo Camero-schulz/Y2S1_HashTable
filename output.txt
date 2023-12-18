@@ -1,0 +1,134 @@
+Associative array contains 0 entries in a table of 127 size
+Strategies used: 'asc' hash, 'len' secondary hash and 'lin' probing
+Costs accrued due to probing:
+  Insertion : 0
+  Search    : 0
+  Deletion  : 0
+  Dumping aarray of 127 entries:
+    0 : empty (NULL)
+    1 : empty (deleted - was 'hex key:[0x01000000]')
+    2 : in use : 'hex key:[0x02000000]'
+    3 : in use : 'hex key:[0x03000000]'
+    4 : in use : 'hex key:[0x04000000]'
+    5 : in use : 'hex key:[0x05000000]'
+    6 : in use : 'hex key:[0x06000000]'
+    7 : in use : 'hex key:[0x07000000]'
+    8 : in use : 'hex key:[0x08000000]'
+    9 : in use : 'hex key:[0x09000000]'
+    10 : in use : 'hex key:[0x0a000000]'
+    11 : empty (deleted - was 'hex key:[0x0b000000]')
+    12 : in use : 'hex key:[0x0c000000]'
+    13 : in use : 'hex key:[0x0d000000]'
+    14 : in use : 'hex key:[0x0e000000]'
+    15 : in use : 'hex key:[0x0f000000]'
+    16 : in use : 'hex key:[0x10000000]'
+    17 : in use : 'hex key:[0x11000000]'
+    18 : in use : 'hex key:[0x12000000]'
+    19 : in use : 'hex key:[0x13000000]'
+    20 : in use : 'hex key:[0x14000000]'
+    21 : in use : 'hex key:[0x15000000]'
+    22 : in use : 'hex key:[0x16000000]'
+    23 : in use : 'hex key:[0x17000000]'
+    24 : in use : 'hex key:[0x18000000]'
+    25 : in use : 'hex key:[0x19000000]'
+    26 : in use : 'hex key:[0x1a000000]'
+    27 : in use : 'hex key:[0x1b000000]'
+    28 : in use : 'hex key:[0x1c000000]'
+    29 : in use : 'hex key:[0x1d000000]'
+    30 : in use : 'hex key:[0x1e000000]'
+    31 : in use : 'hex key:[0x1f000000]'
+    32 : in use : 'hex key:[0x20000000]'
+    33 : in use : 'hex key:[0x21000000]'
+    34 : in use : 'hex key:[0x22000000]'
+    35 : in use : 'hex key:[0x23000000]'
+    36 : in use : 'hex key:[0x24000000]'
+    37 : in use : 'hex key:[0x25000000]'
+    38 : in use : 'hex key:[0x26000000]'
+    39 : in use : 'hex key:[0x27000000]'
+    40 : empty (deleted - was 'hex key:[0x28000000]')
+    41 : in use : 'hex key:[0x29000000]'
+    42 : in use : 'hex key:[0x2a000000]'
+    43 : in use : 'hex key:[0x2b000000]'
+    44 : in use : 'hex key:[0x2c000000]'
+    45 : in use : 'hex key:[0x2d000000]'
+    46 : in use : 'hex key:[0x2e000000]'
+    47 : in use : 'hex key:[0x2f000000]'
+    48 : in use : 'hex key:[0x30000000]'
+    49 : in use : 'hex key:[0x31000000]'
+    50 : empty (deleted - was 'hex key:[0x32000000]')
+    51 : in use : 'hex key:[0x33000000]'
+    52 : in use : 'hex key:[0x34000000]'
+    53 : in use : 'hex key:[0x35000000]'
+    54 : in use : 'hex key:[0x36000000]'
+    55 : in use : 'hex key:[0x37000000]'
+    56 : in use : 'hex key:[0x38000000]'
+    57 : in use : 'hex key:[0x39000000]'
+    58 : in use : 'hex key:[0x3a000000]'
+    59 : in use : 'hex key:[0x3b000000]'
+    60 : in use : 'hex key:[0x3c000000]'
+    61 : in use : 'hex key:[0x3d000000]'
+    62 : in use : 'hex key:[0x3e000000]'
+    63 : in use : 'hex key:[0x3f000000]'
+    64 : in use : 'hex key:[0x40000000]'
+    65 : in use : 'hex key:[0x41000000]'
+    66 : in use : 'hex key:[0x42000000]'
+    67 : in use : 'hex key:[0x43000000]'
+    68 : in use : 'hex key:[0x44000000]'
+    69 : in use : 'hex key:[0x45000000]'
+    70 : in use : 'hex key:[0x46000000]'
+    71 : in use : 'hex key:[0x47000000]'
+    72 : in use : 'hex key:[0x48000000]'
+    73 : in use : 'hex key:[0x49000000]'
+    74 : in use : 'hex key:[0x4a000000]'
+    75 : in use : 'hex key:[0x4b000000]'
+    76 : in use : 'hex key:[0x4c000000]'
+    77 : in use : 'hex key:[0x4d000000]'
+    78 : in use : 'hex key:[0x4e000000]'
+    79 : in use : 'hex key:[0x4f000000]'
+    80 : in use : 'hex key:[0x50000000]'
+    81 : in use : 'hex key:[0x51000000]'
+    82 : in use : 'hex key:[0x52000000]'
+    83 : in use : 'hex key:[0x53000000]'
+    84 : in use : 'hex key:[0x54000000]'
+    85 : in use : 'hex key:[0x55000000]'
+    86 : in use : 'hex key:[0x56000000]'
+    87 : in use : 'hex key:[0x57000000]'
+    88 : in use : 'hex key:[0x58000000]'
+    89 : in use : 'hex key:[0x59000000]'
+    90 : in use : 'hex key:[0x5a000000]'
+    91 : in use : 'hex key:[0x5b000000]'
+    92 : in use : 'hex key:[0x5c000000]'
+    93 : in use : 'hex key:[0x5d000000]'
+    94 : in use : 'hex key:[0x5e000000]'
+    95 : in use : 'hex key:[0x5f000000]'
+    96 : in use : 'hex key:[0x60000000]'
+    97 : in use : 'hex key:[0x61000000]'
+    98 : in use : 'hex key:[0x62000000]'
+    99 : in use : 'hex key:[0x63000000]'
+    100 : empty (deleted - was 'hex key:[0x64000000]')
+    101 : in use : 'hex key:[0x65000000]'
+    102 : in use : 'hex key:[0x66000000]'
+    103 : in use : 'hex key:[0x67000000]'
+    104 : in use : 'hex key:[0x68000000]'
+    105 : in use : 'hex key:[0x69000000]'
+    106 : in use : 'hex key:[0x6a000000]'
+    107 : in use : 'hex key:[0x6b000000]'
+    108 : in use : 'hex key:[0x6c000000]'
+    109 : in use : 'hex key:[0x6d000000]'
+    110 : in use : 'hex key:[0x6e000000]'
+    111 : in use : 'hex key:[0x6f000000]'
+    112 : in use : 'hex key:[0x70000000]'
+    113 : empty (NULL)
+    114 : empty (NULL)
+    115 : empty (NULL)
+    116 : empty (NULL)
+    117 : empty (NULL)
+    118 : empty (NULL)
+    119 : empty (NULL)
+    120 : empty (NULL)
+    121 : empty (NULL)
+    122 : empty (NULL)
+    123 : empty (NULL)
+    124 : empty (NULL)
+    125 : empty (NULL)
+    126 : empty (NULL)

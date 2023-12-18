@@ -1,0 +1,26 @@
+./a3 -i -n 120 -p -q key.txt data-byname.txt
+./a3 -i -n 12 -p smalldata-mixed.txt
+./a3 -H asc -P lin -n 400 -i -d delete.txt -q key.txt  data-bynumber.txt
+
+./a3 -p -H asc -P lin -n 120 -d delete.txt -q key.txt  data-byname.txt
+./a3 -p -H sum -P qua -n 120 -d delete.txt -q key.txt  data-byname.txt
+./a3 -p -H len -P dou -n 120 -d delete.txt -q key.txt  data-byname.txt
+./a3 -p -H asc -P dou -n 120 -d delete.txt -q key.txt  data-byname.txt
+./a3 -p -H sum -P dou -n 120 -d delete.txt -q key.txt  data-byname.txt
+./a3 -p -H asc -P lin -n 400 -d delete.txt -q key.txt -o output.txt  data-byname.txt
+
+./a3 -p -H asc -i -P lin -n 120 -d delete.txt -q key.txt  data-bynumber.txt
+./a3 -p -H sum -i -P qua -n 120 -d delete.txt -q key.txt  data-bynumber.txt
+./a3 -p -H len -i -P dou -n 120 -d delete.txt -q key.txt  data-bynumber.txt
+./a3 -p -H asc -i -P dou -n 120 -d delete.txt -q key.txt  data-bynumber.txt
+./a3 -p -H sum -i -P dou -n 120 -d delete.txt -q key.txt  data-bynumber.txt
+./a3 -H asc -i -p -P lin -n 120 -d delete.txt -q key.txt -o output.txt data-bynumber.txt
+
+Amla
+Apricot
+Broccoli
+Blue Berry
+Curry plant
+Turnip
+Pineapple
+Winged bean
